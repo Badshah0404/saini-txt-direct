@@ -12,22 +12,22 @@
     "stack": "container",
     "env": {
         "API_ID": {
-            "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑰𝑫",
+            "description": "23761741",
             "value": "",
             "required": true
         },
         "API_HASH": {
-            "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑯𝒂𝒔𝒉",
+            "description": "065c3bcc3665622db237f65a9a5b47e4",
             "value": "",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑩𝒐𝒕 𝑻𝒐𝒌𝒆𝒏",
+            "description": "8076997113:AAECv-m0Qy_BImz98ibei8GgtlVBmRPHlJo",
             "value": "",
             "required": true
         },
         "token_cp":{
-            "description": "𝘌𝘯𝘵𝘦𝘳 𝘞𝘰𝘳𝘬𝘪𝘯𝘨 𝘊𝘭𝘢𝘴𝘴𝘱𝘭𝘶𝘴 𝘛𝘰𝘬𝘦𝘯",
+            "description": "eyJhbGciOiJIUzM4NCIsInR5cCI6IkpXVCJ9.eyJpZCI6ODU1ODY4MjcsIm9yZ0lkIjoyODQ3NTcsInR5cGUiOjEsIm1vYmlsZSI6IjkxOTY4MDM3NDcwMSIsIm5hbWUiOiJSYWh1bCIsImVtYWlsIjoicmFodWxzdXRoYXIzMjY1MTlAZ21haWwuY2ltIiwiaXNJbnRlcm5hdGlvbmFsIjowLCJkZWZhdWx0TGFuZ3VhZ2UiOiJFTiIsImNvdW50cnlDb2RlIjoiSU4iLCJjb3VudHJ5SVNPIjoiOTEiLCJ0aW1lem9uZSI6IkdNVCs1OjMwIiwiaXNEaXkiOnRydWUsIm9yZ0NvZGUiOiJvenlqdiIsImlzRGl5U3ViYWRtaW4iOjAsImZpbmdlcnByaW50SWQiOiIyYjMwMWMzNGI4OTFmYmEyYTVjZjJiNjI0MDc2NWE0MiIsImlhdCI6MTc0MzU3NjA2MSwiZXhwIjoxNzQ0MTgwODYxfQ.BalOSXlvsh5t0iRJBODdKqN9h2_OY3F14hab0veJ9BM6TleTsUbKMpLZgnnfmGCb",
             "value": "",
             "required": true
         }
