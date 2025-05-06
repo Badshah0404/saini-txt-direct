@@ -44,7 +44,7 @@ bot = Client(
     "bot",
     api_id=23761741,
     api_hash=065c3bcc3665622db237f65a9a5b47e4,
-    bot_token=8076997113:AAECv-m0Qy_BImz98ibei8GgtlVBmRPHlJo
+    bot_token=7368939359:AAEy0gA_2MjZcOJioDkhYayLF46au5fq_Tc
 )
 
 cookies_file_path = os.getenv("cookies_file_path", "youtube_cookies.txt")
